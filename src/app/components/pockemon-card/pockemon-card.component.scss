@@ -1,0 +1,25 @@
+.maim-card-ser{
+    display: flex;
+    flex-flow: row;
+    .one{
+        margin-right: 2%;
+        margin-left: 2%;
+    }
+    .two{
+        margin-right: 2%;
+        margin-left: 2%;
+    }
+    .tres{
+        background: green;
+        display: flex;
+        flex-flow: column;
+        .item{
+            flex-flow: column;
+            height: 40px;
+        }
+    }
+    .textStyle{
+        height: 30px;
+        width: 100px;
+    }
+}

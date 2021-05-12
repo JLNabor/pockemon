@@ -1,0 +1,13 @@
+.contador-dos{
+    width: 500px;
+    height: 500px;
+    background: blue;
+    align-items: center;
+    justify-content: center;
+    display: flex;
+    flex-flow: column;
+    .part1{
+        margin-bottom: 2%;
+        color:white;
+    }
+}
